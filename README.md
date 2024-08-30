@@ -3,9 +3,7 @@
 1. Build with C++ VS 2022, "**Release** x64" config
    
 2. Copy "CustomizeToolbar.dll" to
-  %ProgramFiles%\Notepad++\plugins_CustomizeToolbar\ folder and rename to
-  "_CustomizeToolbar.dll"
-
+  %ProgramFiles%\Notepad++\plugins\_CustomizeToolbar\ folder
 3. Launch
   Notepad++, goto Plugins~"Customize Toolbar" menu and click
   "Custom Buttons", and close Notepad++ (NPP)
