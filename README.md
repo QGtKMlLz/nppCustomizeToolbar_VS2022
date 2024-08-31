@@ -1,3 +1,6 @@
+AS A PRECAUTION MAKE A COPY FOR BACKUP OF YOU    CustomizeToolbar.dat   & CustomizeToolbar.btn (Path:  %AppData%\Roaming\Notepad++\plugins\config\ ) in case of conflict with any prior version.
+
+
 **Install:**
 
 1. Build with C++ VS 2022, "**Release** x64" config
